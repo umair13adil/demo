@@ -1,8 +1,11 @@
 {
   "posts": [
-    { "id": 1, "title": "Lorem ipsum dolor sit amet" , "image":"https://randomuser.me/api/portraits/women/17.jpg" , "details":"" },
-    { "id": 2, "title": "Consectetur adipiscing elit" , "image":"https://randomuser.me/api/portraits/women/79.jpg" , "details":"" },
-    { "id": 3, "title": "Eiusmod tempor incididunt ut labore" , "image":"https://randomuser.me/api/portraits/men/31.jpg" , "details":"" }
+    { "id": 1, "title": "Lorem ipsum dolor sit amet" , "image":"https://randomuser.me/api/portraits/women/17.jpg" , "details":"Lorem Ipsum is simply dummy text of the printing and typesetting industry." },
+    { "id": 2, "title": "Consectetur adipiscing elit" , "image":"https://randomuser.me/api/portraits/women/79.jpg" , "details":"Lorem Ipsum is simply dummy text of the printing and typesetting industry." },
+    { "id": 3, "title": "Eiusmod tempor incididunt ut labore" , "image":"https://randomuser.me/api/portraits/men/31.jpg" , "details":"Lorem Ipsum is simply dummy text of the printing and typesetting industry." },
+    { "id": 4, "title": "Sed ut perspiciatis unde omnis iste" , "image":"https://randomuser.me/api/portraits/women/3.jpg" , "details":"Lorem Ipsum is simply dummy text of the printing and typesetting industry." },
+    { "id": 5, "title": "Sit voluptatem accusantium doloremque" , "image":"https://randomuser.me/api/portraits/men/64.jpg" , "details":"Lorem Ipsum is simply dummy text of the printing and typesetting industry." },
+    { "id": 6, "title": "Ut enim ad minima veniam, quis nostrum" , "image":"https://randomuser.me/api/portraits/women/54.jpg" , "details":"Lorem Ipsum is simply dummy text of the printing and typesetting industry." }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
