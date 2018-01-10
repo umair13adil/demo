@@ -1,8 +1,8 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" , "image":"" , "details":"" },
-    { "id": 2, "title": "Post 2" , "image":"" , "details":"" },
-    { "id": 3, "title": "Post 3" , "image":"" , "details":"" }
+    { "id": 1, "title": "Lorem ipsum dolor sit amet" , "image":"https://randomuser.me/api/portraits/women/17.jpg" , "details":"" },
+    { "id": 2, "title": "Consectetur adipiscing elit" , "image":"https://randomuser.me/api/portraits/women/79.jpg" , "details":"" },
+    { "id": 3, "title": "Eiusmod tempor incididunt ut labore" , "image":"https://randomuser.me/api/portraits/men/31.jpg" , "details":"" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
